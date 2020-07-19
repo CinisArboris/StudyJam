@@ -51,3 +51,4 @@ firebase-debug.log
 .firebase
 .editorconfig
 .firebaserc
+environment.ts
